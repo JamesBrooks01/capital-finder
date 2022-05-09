@@ -120,3 +120,4 @@ node_modules/
 
 # poetry
 poetry.lock
+.vercel
